@@ -1,5 +1,8 @@
+require'cucumber'
+require 'rspec'
 require 'rest_client'
 require 'nokogiri'
+require 'turnip'
 
 def update_tokens(template_file)
 	template = ""

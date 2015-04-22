@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'cucumber', '~> 2.0.0'
+gem 'rspec', '~> 3.2.0'
+gem 'rest_client', '~> 1.8.3'
+gem 'nokogiri', '~> 1.6.6.2'
+gem 'turnip', '~> 1.3.0'
